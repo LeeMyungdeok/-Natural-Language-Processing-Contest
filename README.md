@@ -1,1 +1,1 @@
-# -Natural-Language-Processing-Contest
+# Natural-Language-Processing-Contest
