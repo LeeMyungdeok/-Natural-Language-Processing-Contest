@@ -46,7 +46,7 @@ uvicorn main:app --host 0.0.0.0 --port 3000 --reload
 
 ## back-end 아키텍쳐 설계
 
-<img width="700" alt="image" src="https://github.com/LeeMyungdeok/Natural-Language-Processing-Project/assets/115915362/b21ee2ff-3d60-4b5b-aaa3-9deb467149d0">
+<img width="800" alt="image" src="https://github.com/LeeMyungdeok/Natural-Language-Processing-Project/assets/115915362/b21ee2ff-3d60-4b5b-aaa3-9deb467149d0">
 
 ## 배포
 
