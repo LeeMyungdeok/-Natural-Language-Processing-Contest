@@ -63,5 +63,5 @@ uvicorn main:app --host 0.0.0.0 --port 3000 --reload
   - 상세 하게 적어보기 
 
  
-## 보완점
-
+## 진행상태
+* 진행중
