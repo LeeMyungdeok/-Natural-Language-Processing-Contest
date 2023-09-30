@@ -10,7 +10,7 @@
 <img src= "https://img.shields.io/badge/inux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 <img src= "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
 <img src= "https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src= "https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src= "https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img src= "https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white" />
 
 <br>
