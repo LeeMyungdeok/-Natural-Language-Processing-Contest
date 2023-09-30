@@ -5,11 +5,13 @@
 <img width="500" alt="image" src="https://github.com/LeeMyungdeok/Natural-Language-Processing-Project/assets/115915362/f522681a-8508-443e-b590-5c42ad712bd5">
 <br>
 <img src= "https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-<img src= "https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src= "https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 <img src= "https://img.shields.io/badge/inux-FCC624?style=flat-square&logo=linux&logoColor=white" />
 <img src= "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+<img src= "https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src= "https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src= "https://img.shields.io/badge/openai-412991?style=flat-square&logo=openai&logoColor=white" />
 
 <br>
 </p>
