@@ -1,2 +1,5 @@
 **/.venv
 test.pdf
+**/soo
+**/__pycache__
+**/langchain_wiki*
