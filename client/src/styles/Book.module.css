@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+}
+
+.BookContainer {
+    width: 120px;
+    height:170px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+    top: 200px;
+    margin-top: 300px;
+
+    
+}
+
+.BookRank {
+    text-align: start;
+    font-size: 28px;
+    font-weight: 700;
+    margin: 5px;
+    padding: 10px;
+    z-index: 2;
+}
+
+.BookTitle {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+    overflow: auto;
+
+}

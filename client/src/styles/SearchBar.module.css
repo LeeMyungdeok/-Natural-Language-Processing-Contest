@@ -1,0 +1,31 @@
+.SearchBarContainer {
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    position: relative;
+    bottom: 50px;
+}
+
+.SearchBarContainer > img {
+    width: 35px;
+    position: absolute;
+    left: 25px;
+    bottom: 11px;
+    cursor: pointer;
+}
+
+.SearchBarContainer > input {
+    width: 100%;
+    padding: 20px;
+    padding-left: 75px;
+    border-radius: 35px;
+    border: 2px solid #039900;
+    margin-right: 10px;
+    font-size: 1em;
+    display: flex;
+    overflow: auto;
+}
+
+

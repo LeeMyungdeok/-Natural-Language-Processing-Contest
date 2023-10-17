@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+}
+
+.headerContainer {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 50px;
+    color: white;
+    display: flex;
+    position: fixed;
+    z-index: 10;
+    padding: 10px;
+    box-shadow: 0 1px 1px 0 rgba(154, 154, 154, 0.2);
+    top: 0px;
+}
+
+
+.headerLogoFrame {
+    margin-left: 3px;
+    position: absolute;
+    cursor: pointer;
+}
+
+.headerLogo {
+    width: 90px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.headerRightMenubar {
+    margin-right: 3px;
+    position: absolute;
+    right: 30px;
+    cursor: pointer;
+}
+
+.headerMenubar {
+    width: 25px;
+    height: 25px;
+    margin: 13px 10px;
+
+}
+
+.sidebar {
+    position: absolute;
+    width: 301px;
+    height: 100vh;
+    right: 0;
+    top: 70px;
+    background: #039900;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar li {
+    padding: 12px;
+    cursor: pointer;
+    font-size: 19px; 
+    font-weight: 700; 
+    line-height: 1.5; 
+}
+
+
+.sidebar li ul li {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.sidebar li:hover {
+    background-color: #d8d8d8;
+}
