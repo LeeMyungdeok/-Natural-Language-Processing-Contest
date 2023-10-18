@@ -1,0 +1,16 @@
+.BookButtonContainer {
+    width: 600px;
+    text-align: center;
+}
+
+.BookButton {
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #039900;
+    border-radius: 8px;
+    border: none;
+    padding: 25px;
+    cursor: pointer;
+}
